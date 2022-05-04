@@ -1,0 +1,19 @@
+import setuptools
+
+setuptools.setup(
+  inlude_package_data = True,
+  name= 'myCalc009',
+  version= '0.0.1',
+  descripiton= 'oss-dev Calculator',
+  author= 'k0ngmin',
+  author_email= 'hmongmin808@gmail.com',
+  url= 'https://github.com/k0ngmin/MyCalc',
+  download_url= '',
+  install-reqires=['pytest'],
+  long_description= 'oss-dev caculator python module',
+  long_description_content_type= ' text/markdown/',
+  classifiers=[
+    "Programming Language :: Python ::3",
+    "Operationg System :: OS Independent",
+  ],
+)
