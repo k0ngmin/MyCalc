@@ -8,7 +8,7 @@ setuptools.setup(
   author= 'k0ngmin',
   author_email= 'hmongmin808@gmail.com',
   url= 'https://github.com/k0ngmin/MyCalc',
-  download_url= '',
+  download_url= 'https://github.com/k0ngmin/myCalc009/archive/refs/tags/v0.zip',
   install-reqires=['pytest'],
   long_description= 'oss-dev caculator python module',
   long_description_content_type= ' text/markdown/',
